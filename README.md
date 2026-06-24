@@ -31,7 +31,13 @@ This Power BI dashboard was developed to analyze Adidas sales performance and tr
 - Opportunities for business growth
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](Adidas_Sales_Overview.png)
+
+### Sales Dashboard
+![Sales Dashboard](Adidas_Sales_Dashboard.png)
 
 ## 👤 Author
 Victory Ebhohimen
